@@ -1,7 +1,6 @@
 # Ad Tracking Fraud Detection
 
-**Lixuan Mao, netID: lm769
-Ang Li, netID: al2386**
+Team: **Lixuan Mao(lm769), Ang Li(al2386)**
 
 ## Proposal:
 This is a competition from [Kaggle](https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection/leaderboard).
